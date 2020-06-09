@@ -13,4 +13,5 @@ func main()  {
 	//s2 := s1[3:6]
 	//fmt.Println("s1 = ",s1)
 	//fmt.Println("s2 = ",s2)
+	//fork测试
 }
